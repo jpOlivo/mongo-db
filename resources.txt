@@ -1,0 +1,3 @@
+http://www.adictosaltrabajo.com/tutoriales/mongodb/
+http://blog.knuthaugen.no/2010/07/comparing-mongodb-java-frameworks.html
+
